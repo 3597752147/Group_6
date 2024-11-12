@@ -1,0 +1,51 @@
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.sourcelink.json
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.Up2Date
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\BuiGiaBaoCE170974\GASM PRN211\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.sourcelink.json
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.Up2Date
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\DINH KHOI\Documents\Zalo Received Files\ASM03_\ASM03_\PRN211-Project-main\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.sourcelink.json
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.csproj.Up2Date
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\PRN211\PRN211-Project-main\PRN211-Project-main\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

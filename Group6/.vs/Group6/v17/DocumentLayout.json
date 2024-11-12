@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN211\\Group6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|d:\\prn211\\group6\\estore\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|solutionrelative:estore\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|d:\\prn211\\group6\\estore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|solutionrelative:estore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\salesmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\salesmanagementcontext.connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|d:\\prn211\\group6\\estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|solutionrelative:estore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\orderdetailrepo\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\orderdetailrepo\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\orderrepo\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\memberrepo\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|d:\\prn211\\group6\\estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|solutionrelative:estore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|d:\\prn211\\group6\\estore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F076CB05-3AED-4B0F-894A-8239B2D5246C}|eStore\\eStore.csproj|solutionrelative:estore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\productrepo\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\productrepo\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\repository\\memberrepo\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\dao\\orderdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\dao\\orderdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3B68F9-DC4C-4344-BF03-9D0A6436A2A0}|..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DataAccess.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\dataaccess\\dao\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CE9B4-6077-44A2-9701-00DE401EBF15}|..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj|d:\\prn211\\prn211-project-main\\prn211-project-main\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesManagementContext.Connection.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.Connection.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.Connection.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.Connection.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:29:22.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Product.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Product.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Product.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA5wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:51:09.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN211\\Group6\\eStore\\Program.cs",
+              "RelativeDocumentMoniker": "eStore\\Program.cs",
+              "ToolTip": "D:\\PRN211\\Group6\\eStore\\Program.cs",
+              "RelativeToolTip": "eStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:52:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\PRN211\\Group6\\eStore\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "eStore\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\PRN211\\Group6\\eStore\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "eStore\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:56:27.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\appsettings.json",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T12:51:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesManagementContext.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\SalesManagementContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:29:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Order.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Order.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Order.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:59:23.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\PRN211\\Group6\\eStore\\Startup.cs",
+              "RelativeDocumentMoniker": "eStore\\Startup.cs",
+              "ToolTip": "D:\\PRN211\\Group6\\eStore\\Startup.cs",
+              "RelativeToolTip": "eStore\\Startup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:52:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Member.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Member.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Member.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\Member.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:59:25.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\OrderDetail.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\OrderDetail.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:51:21.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:12:04.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderDetailRepo\\IOrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:01:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:09:54.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\MemberRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:00:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN211\\Group6\\eStore\\appsettings.json",
+              "RelativeDocumentMoniker": "eStore\\appsettings.json",
+              "ToolTip": "D:\\PRN211\\Group6\\eStore\\appsettings.json",
+              "RelativeToolTip": "eStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T12:52:02.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PRN211\\Group6\\eStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "eStore\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PRN211\\Group6\\eStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "eStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T13:50:40.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:03:48.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\ProductRepo\\ProductRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:04:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:09:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\Repository\\MemberRepo\\IMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:01:40.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDAO.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDAO.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDAO.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDAO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:58:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\ProductDAO.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\ProductDAO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:55:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetailDAO.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\OrderDetailDAO.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:56:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\MemberDAO.cs",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\MemberDAO.cs",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\DataAccess\\DAO\\MemberDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:58:22.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\appsettings.json",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\appsettings.json",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T13:40:21.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\PRN211\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "..\\PRN211-Project-main\\PRN211-Project-main\\BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T13:21:23.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
